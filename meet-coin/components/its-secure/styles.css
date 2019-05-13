@@ -1,0 +1,56 @@
+.wrapper {
+  margin: 100px 0 60px;
+  background: rgba($colorBackground, 0.6);
+  background-image: url('./bg-lines.svg');
+  background-size: 100%;
+}
+
+.currencySheild {
+  position: absolute;
+  color: white;
+  font-size: 130px;
+  width: 100%;
+  text-align: center;
+  top: 100px;
+  left: 0;
+}
+
+.wrapperIcon {
+  width: 233px;
+  position: relative;
+  padding: 50px 0;
+  margin-left: 100px;
+}
+
+.wrapperIcon img {
+  width: 100%;
+}
+
+.wrapperText {
+  padding-top: 90px;
+}
+
+.wrapperText p {
+  position: relative;
+  top: -30px;
+  line-height: 30px;
+}
+
+.wrapperText :global(.container) {
+  width: auto;
+}
+
+.buttons {
+  margin-top: -20px;
+  padding-top: 0;
+  margin-bottom: 40px;
+  color: $colorBluePrimary;
+}
+
+.buttons a {
+  color: $colorBluePrimary;
+}
+
+.center {
+  text-align: center;
+}

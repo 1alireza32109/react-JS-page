@@ -1,0 +1,66 @@
+.wrapper {
+  margin: 0 0 60px;
+  background-size: 100%;
+  padding-bottom: 80px;
+}
+
+.wrapperIcon img {
+  width: 100%;
+}
+
+.wrapperText {
+  padding-top: 35px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapperText p {
+  position: relative;
+  line-height: 30px;
+  width: 90%;
+}
+
+.wrapperText :global(.container) {
+  width: auto;
+}
+
+.buttons {
+  margin-top: -20px;
+  padding-top: 0;
+  margin-bottom: 40px;
+  color: $colorBluePrimary;
+}
+
+.buttons a {
+  color: $colorBluePrimary;
+}
+
+.center {
+  text-align: center;
+}
+
+.wallet {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.listWallets {
+  padding-inline-start: 25px;
+}
+
+.download {
+  text-align: center;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: -40px;
+}
+
+.wraperEtc {
+  padding-bottom: 20px;
+}

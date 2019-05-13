@@ -1,0 +1,36 @@
+.wrapper {
+  padding-top: 50px;
+}
+
+.wrapperVersion {
+  text-align: center;
+}
+
+.wrapperVersion img {
+  max-width: 80%;
+  max-height: 170px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.playStore {
+  background: url(./get-play-store.png) center;
+  height: 49px;
+  width: 100%;
+  display: block;
+  background-size: 166px;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.playStore:hover {
+  transform: scale(1.05);
+}
+
+.button {
+  height: 49px;
+  display: inline-block;
+  background-image: linear-gradient(224deg, #b06ab3 0%, #6699f8 100%);
+  border-radius: 5px;
+}

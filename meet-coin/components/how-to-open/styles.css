@@ -1,0 +1,68 @@
+.wrapper {
+  background: #fff;
+  background-size: 100%;
+  padding-bottom: 80px;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.wrapperIcon img {
+  width: 100%;
+}
+
+.btnStoreXrp {
+  margin-top: -30px;
+  width: 50%;
+}
+
+.wrapperText {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapperText p {
+  position: relative;
+  top: -30px;
+  line-height: 30px;
+  width: 75%;
+  margin: auto;
+}
+
+.wrapperText :global(.container) {
+  width: auto;
+}
+
+.buttons {
+  margin-top: -20px;
+  padding-top: 0;
+  margin-bottom: 40px;
+  color: $colorBluePrimary;
+}
+
+.buttons a {
+  color: $colorBluePrimary;
+}
+
+.center {
+  text-align: center;
+}
+
+.wallet {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+}
+
+.titleBuyRenew {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.iframeRenew {
+  display: flex;
+  justify-content: center;
+}

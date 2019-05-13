@@ -1,0 +1,102 @@
+.wrapper {
+  background: #f1f2fa;
+  background-size: 100%;
+}
+
+.wrapperFilat {
+  background: #fff;
+  background-size: 100%;
+  padding-bottom: 80px;
+}
+
+.wrapperIcon img {
+  width: 100%;
+}
+
+.wrapperText {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapperTextXtz {
+  padding-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wrapperTextXtz p {
+  position: relative;
+  top: -30px;
+  line-height: 30px;
+  width: 90%;
+  margin-left: auto;
+}
+
+.wrapperText p {
+  position: relative;
+  top: -30px;
+  line-height: 30px;
+  width: 50%;
+  margin: auto;
+}
+
+.wrapperText :global(.container) {
+  width: auto;
+}
+
+.buttons {
+  margin-top: -20px;
+  padding-top: 0;
+  margin-bottom: 40px;
+  color: $colorBluePrimary;
+}
+
+.buttons a {
+  color: $colorBluePrimary;
+}
+
+.center {
+  text-align: center;
+}
+
+.wallet {
+  display: flex;
+  justify-content: center;
+  height: 500px;
+}
+
+.titleBuyRenew {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.iframeRenew {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  right: 30px;
+}
+
+iframe {
+  margin-top: 0;
+}
+
+.imgBuyRenew {
+  display: block;
+  margin: 40px auto;
+}
+
+.xmrOverlay {
+  width: 70%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+}

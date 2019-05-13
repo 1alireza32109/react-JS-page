@@ -1,0 +1,52 @@
+.wrapper {
+  padding-top: 50px;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.tableInfo {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.tableInfo td {
+  border: solid 1px #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.titleXrp {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+.textXrp {
+  color: #000;
+  padding-bottom: 40px;
+}
+
+.textSimple {
+  color: #000;
+  margin-top: 25px;
+  padding-bottom: 40px;
+}
+
+.overlay {
+  background: #f1f2fa;
+}
+
+.titleXmr {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0 0;
+}
+
+ol {
+  padding-inline-start: 20px;
+  padding-top: 10px;
+}

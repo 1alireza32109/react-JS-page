@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 585 480">
+  <defs>
+    <filter id="a" width="165.7%" height="358.1%" x="-32.9%" y="-129.1%" filterUnits="objectBoundingBox">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="26.7689732"/>
+    </filter>
+    <linearGradient id="b" x1="56.7186825%" x2="62.9051643%" y1="-2.41987179%" y2="100%">
+      <stop offset="0%" stop-color="#FCAFFF"/>
+      <stop offset="26.1605853%" stop-color="#E1D7FF"/>
+      <stop offset="100%" stop-color="#66B5F8"/>
+    </linearGradient>
+    <linearGradient id="c" x1="0.887124867%" x2="91.6455173%" y1="108.579906%" y2="4.24460375%">
+      <stop offset="0%" stop-color="#2247B6"/>
+      <stop offset="100%" stop-color="#E68FFF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd" transform="translate(-1 1)">
+    <g transform="translate(0 76)">
+      <ellipse cx="248.69927" cy="304.193741" fill="#2B3DA3" filter="url(#a)" opacity="0.5" rx="122.18889" ry="31.1120214"/>
+      <path stroke="#F2C5FF" stroke-width="2" d="M1.882 277.035c133.071-95.023 327.686-132.08 583.844-111.172"/>
+    </g>
+    <circle cx="244" cy="188" r="134" fill="url(#b)" fill-rule="nonzero"/>
+    <circle cx="253" cy="185" r="134" fill="url(#c)" fill-rule="nonzero"/>
+    <path stroke="#F2C5FF" stroke-width="2" d="M88 0c62.726 48.428 131.622 70.603 206.688 66.525C352.881 63.363 414.318 43.965 479 8.329"/>
+  </g>
+</svg>

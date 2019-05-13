@@ -1,0 +1,29 @@
+.wrapper {
+  padding-top: 0;
+  text-align: center;
+}
+
+.titleDescription {
+  font-size: 16px;
+  line-height: 28px;
+  font-weight: 100;
+  text-align: center;
+  margin-top: -70px;
+  margin-bottom: 20px;
+}
+
+.line {
+  text-align: center;
+  margin-bottom: -20px;
+}
+
+.line span {
+  border-bottom: 3px solid #8388de;
+  width: 60px;
+  display: inline-block;
+}
+
+.wrapper a {
+  display: inline-block;
+  color: #8388de;
+}

@@ -1,0 +1,30 @@
+.wrapper {
+  padding: 20px 0;
+  margin: 100px 0 50px;
+  background: $colorBackground;
+}
+
+.wrapperItems {
+  display: flex;
+  align-items: center;
+}
+
+.wrapperItems img {
+  margin-right: 40px;
+  width: 96px;
+  height: 96px;
+}
+
+.blockInfo {
+  margin-right: 100px;
+}
+
+.blockInfo h2 {
+  font-weight: normal;
+  font-size: 19px;
+}
+
+.blockInfo p {
+  font-size: 16px;
+  font-weight: 100;
+}
